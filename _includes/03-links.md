@@ -1,1 +1,1 @@
-[GitHub](https://github.com/randy-aguirre)
+[Randy Aguirre GitHub Profile](https://github.com/randy-aguirre)
