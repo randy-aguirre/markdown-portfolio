@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Randy Aguirre](https://media-exp1.licdn.com/dms/image/C5603AQF08YN2f_hl-w/profile-displayphoto-shrink_200_200/0/1605472745141?e=1616025600&v=beta&t=dggEmPeIq7KZKlhPc91JohVKSvRaAnMAAPxjM0Ivh-4)
