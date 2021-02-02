@@ -1,0 +1,1 @@
+My programming skills are summarized in the __PERN STACK__, as you might know it consists of core technologies like _Javascript_, _HTML_, _CSS_ and _React JS_ as frontend framework. At the backend I have _Node JS_, _Express JS_ for routing and to store the data _PostgreSQL_ :elephant:
